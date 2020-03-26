@@ -1,5 +1,5 @@
 # komiku-downloader
-Aplikasi sederhana untuk mendownload manga dari komiku
+Aplikasi sederhana untuk mendownload manga dari komiku (https://komiku.co.id/)
 
 # Cara pakai
 
