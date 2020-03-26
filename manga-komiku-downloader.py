@@ -1,8 +1,6 @@
 import requests 
 import wget
 import os
-import time
-import io 
 from PIL import Image
 from bs4 import BeautifulSoup
 
